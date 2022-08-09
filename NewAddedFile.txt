@@ -1,0 +1,1 @@
+Hello, this is a second file that we have written to use PUSH command to get all commits on the other side.
